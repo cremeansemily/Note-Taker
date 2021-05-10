@@ -11,10 +11,10 @@ module.exports = function (app){
 
     
     app.get('/notes', function(request, response) {
-        response.sendFile(path.join(__dirname, '../develop/notes.html'));
+        response.sendFile(path.join(__dirname, './develop/notes.html'));
     });
 
     app.get('*', function(request, response) {
-        response.sendFile(path.join(__dirname, '../develop/index.html'));
+        response.sendFile(path.join(__dirname, './develop/index.html'));
     });
 };
