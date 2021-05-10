@@ -11,3 +11,4 @@ For users that need to keep track of a lot of information, it's easy to forget o
 Being able to take persistent notes allows users to have written information available when needed.
 
 Webpage URL: https://cremeansemily.github.io/Note-Taker/
+Github: https://github.com/cremeansemily/Note-Taker
